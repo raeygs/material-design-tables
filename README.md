@@ -28,4 +28,4 @@ Please note: The MD Library file contains Material Design components, typography
 
 The Material Design guidelines can be found on the [Material Design](https://material.io/design/guidelines-overview/) website. 
 
-Material Design previously released a Theme Editor plugin for Sketch. The MD Library and MD Icons Filled `sketch` files were generated from the plugin which has now unfortunately been discontinued. To find out more please visit: [Theme Editor Home](https://material.io/tools/theme-editor/theme-editor-home.html)
+Material Design previously released a Theme Editor plugin for Sketch. The MD Library and MD Icons Filled `.sketch` files were generated from the plugin which has now unfortunately been discontinued. To find out more please visit: [Theme Editor Home](https://material.io/tools/theme-editor/theme-editor-home.html)
